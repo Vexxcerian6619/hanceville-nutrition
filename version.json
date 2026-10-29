@@ -1,6 +1,6 @@
 {
-  "versionCode": 4,
-  "versionName": "1.3",
+  "versionCode": 5,
+  "versionName": "1.4",
   "apkUrl": "https://raw.githubusercontent.com/Vexxcerian6619/hanceville-nutrition/main/hanceville-nutrition.apk",
-  "notes": "Now with in-app updates and the shop's real logo"
+  "notes": "New: Pickup or Delivery ordering, plus shop-owner connect for DoorDash and Square online ordering"
 }
