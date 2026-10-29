@@ -1,6 +1,6 @@
 {
-  "versionCode": 5,
-  "versionName": "1.4",
+  "versionCode": 6,
+  "versionName": "1.5",
   "apkUrl": "https://raw.githubusercontent.com/Vexxcerian6619/hanceville-nutrition/main/hanceville-nutrition.apk",
-  "notes": "New: Pickup or Delivery ordering, plus shop-owner connect for DoorDash and Square online ordering"
+  "notes": "New: customer accounts with their own punch cards, and an owner login that unlocks the DoorDash & Square tools"
 }
