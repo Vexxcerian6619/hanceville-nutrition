@@ -1,0 +1,8 @@
+{
+  "orderingMode": "text",
+  "doordashOrderUrl": "",
+  "squareOrderUrl": "",
+  "squareConnectUrl": "",
+  "squareConnected": false,
+  "deliveryOffered": true
+}
